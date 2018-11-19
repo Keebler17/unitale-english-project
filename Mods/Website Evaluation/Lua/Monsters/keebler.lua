@@ -11,6 +11,7 @@ def = 5
 
 canspare = false
 cancheck = true
+check = "Learn."
 currentdialogue = { "It's\n\rimpor-\n\rtant!", "Eval-\n\ruate!" }
 c = false
 r = false
