@@ -18,7 +18,7 @@ r = false
 a = false
 a2 = false
 p = false
-function handleAttack(status)
+function HandleAttack(status)
     if status == -1 then
         currentdialogue = {"Make sure the info is recent!", "On-topic!", "Is it trustworhy?", "Is it right?", "What is its purpose?"}
 	end
